@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T18:52:21.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="J_NR_veduuXeKZYwI6VB" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T18:53:55.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="uEfnK6bCP-zhwVGZZpMT" version="20.8.19" type="github">
   <diagram name="Page-1" id="Bxj_FM-frcXE1fAAi17F">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Axyy6Gmf9DKrcOV3SGui-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="160" width="342.5" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="Axyy6Gmf9DKrcOV3SGui-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Axyy6Gmf9DKrcOV3SGui-1" target="Axyy6Gmf9DKrcOV3SGui-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -35,6 +38,12 @@
         </mxCell>
         <mxCell id="Axyy6Gmf9DKrcOV3SGui-13" value="MySQL Protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Axyy6Gmf9DKrcOV3SGui-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="168" width="33.85" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Axyy6Gmf9DKrcOV3SGui-17" value="Azure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="168" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
